@@ -1,0 +1,48 @@
+{
+  "economias": 217,
+  "linhas": 5425,
+  "tabelas": [
+    {
+      "tabela": "wb_gdp",
+      "linhas": 5425,
+      "colunas": 11,
+      "valores_ausentes": 266
+    },
+    {
+      "tabela": "wb_unemployment",
+      "linhas": 5425,
+      "colunas": 11,
+      "valores_ausentes": 759
+    },
+    {
+      "tabela": "wb_inflation",
+      "linhas": 5425,
+      "colunas": 11,
+      "valores_ausentes": 897
+    }
+  ],
+  "inflacao_2024_n": 176,
+  "inflacao_2024_media": 7.407924533441152,
+  "inflacao_2024_mediana": 3.014475769779985,
+  "inflacao_2024_max": 219.883929014578,
+  "n_correlacao": 164,
+  "corr_pib_desemprego": 0.06183408750999945,
+  "maior_alta": {
+    "economia": "Panama",
+    "variacao_desemprego_pp": 1.907000000000001,
+    "desemprego_pct": 8.451
+  },
+  "brasil_2024": {
+    "ano": 2024,
+    "pib_per_capita_real_usd": 9566.74518687619,
+    "desemprego_pct": 6.801,
+    "inflacao_pct": 4.36746407652336,
+    "crescimento_pib_real_pct": 3.000832918921925,
+    "variacao_desemprego_pp": -1.146
+  },
+  "ausencias": {
+    "pib_per_capita_real_usd": 266,
+    "desemprego_pct": 759,
+    "inflacao_pct": 897
+  }
+}

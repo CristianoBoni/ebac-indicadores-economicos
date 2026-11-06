@@ -1,0 +1,4 @@
+,pib_per_capita_real_usd,desemprego_pct,inflacao_pct
+pib_per_capita_real_usd,1.0,0.06183408750999945,-0.392034062002639
+desemprego_pct,0.06183408750999945,1.0,-0.02335237989009505
+inflacao_pct,-0.392034062002639,-0.02335237989009505,1.0
